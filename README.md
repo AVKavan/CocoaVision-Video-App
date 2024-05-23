@@ -25,6 +25,7 @@ The weather prediction system displays the current weather condition around the 
  
 #### Disease detection.
 The detect Disease button takes the user to another page, from where they can choose either to predict disease with an image or with a video.
+
 <img src="https://github.com/AVKavan/Cocoavision-Video-App/assets/107805278/e2e9cec5-7055-4de7-b6e5-8c3776c74f0c" width="200" height="400" />
 
  ###### Image disease detection.
