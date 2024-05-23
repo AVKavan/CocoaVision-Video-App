@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597472983230",
+    "project_id": "coca-vision",
+    "storage_bucket": "coca-vision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597472983230:android:78551153facfb9876346ef",
+        "android_client_info": {
+          "package_name": "com.example.cocoa_video_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLwOnWU7jC7BH8xawgv5h9O5DOynv4ooU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
